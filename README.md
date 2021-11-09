@@ -27,4 +27,13 @@ if ( r_drawothermodels.GetInt() == 2 )
 ### Show enemy's money
 Display enemies' money, patching one byte of game memory
 
+### B_hop
+```python
+pip3 install Pymem
+pip3 install keyboard
+pip3 install pywin32api
+python bunny.py
+```
+
+
 ### What's next
