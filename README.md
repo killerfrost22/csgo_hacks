@@ -1,6 +1,6 @@
 # radar_detection_OGSC
 Title completes me\\
-A CSGO radar hack client
+CSGO hacks 
 ## How to start
 
 ### What do I need 
